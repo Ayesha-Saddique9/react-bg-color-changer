@@ -10,9 +10,7 @@ A clean, interactive, and responsive web application built with **React.js**. It
 
 ## 📸 Project Preview
 
-<!-- YAHAN APNI PIC<img width="956" height="421" alt="Screenshot 2026-05-18 202952" src="https://github.com/user-attachments/assets/39afdfe5-4b0f-49f0-91c9-bb923c565efb" />
-TURE DRAG KAR KE DROP KAREIN -->
-
+![Project Preview](./preview.png)
 
 ---
 
@@ -29,31 +27,29 @@ TURE DRAG KAR KE DROP KAREIN -->
 ## 🛠️ How It Was Made (Tech Stack & Logic)
 
 - **Frontend:** React.js (Functional Components)
-- **Styling:** Tailwind CSS + Inline Styles
-- **Logic Details:** The application initializes a `color` state variable using `useState('white')`. Each button is equipped with an `onClick` event handler that passes a specific hex code or color name to the `setColor` function. The main wrapper `div` uses inline styling (`style={{ backgroundColor: color }}`) to dynamically inject the state value, instantly updating the UI.
+- **Styling:** Tailwind CSS
+- **Logic Details:** The application initializes a `color` state variable using `useState('white')`. Each button is equipped with an `onClick` event handler that passes a specific hex code or color name to the `setColor` function. The main wrapper `div` uses inline styling `style={{ backgroundColor: color }}` to dynamically inject the state value, instantly updating the UI.
 
 ---
-
 ## 💻 How to Run Locally
 
-Follow these steps to run this project on your own machine:
+If you want to test this project on your own computer, simply run these commands one by one in your terminal:
 
-**1. Clone the repository:**
 ```bash
+# 1. Clone the repository
 git clone https://github.com/Ayesha-Saddique9/react-bg-color-changer.git
 
-**2. Navigate into the project directory:**
+# 2. Navigate to the project folder
 cd react-bg-color-changer
 
-**3. Install dependencies:**
+# 3. Install the required dependencies
 npm install
 
-**4. Start the development server:**
+# 4. Start the local development server
 npm run dev
 
 ---
-
-**👩‍💻 Author**
+##👩‍💻 Author
 **Ayesha Saddique**
 
 Junior Frontend Web Developer
