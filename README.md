@@ -46,6 +46,8 @@ cd react-bg-color-changer
 # 3. Install the required dependencies
 npm install
 
+# 4. Start the local development server
+npm run dev
 ```
 
 ##👩‍💻 Author
@@ -55,5 +57,4 @@ Junior Frontend Web Developer
 GitHub: @Ayesha-Saddique9
 ⭐ If you like this project, feel free to give it a star!
 
-# 4. Start the local development server
-npm run dev
+
