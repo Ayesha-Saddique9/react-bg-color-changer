@@ -10,7 +10,7 @@ A clean, interactive, and responsive web application built with **React.js**. It
 
 ## 📸 Project Preview
 
-![Project Preview](./preview.png)
+(./![Project Preview](./src/preview.png))
 
 ---
 
