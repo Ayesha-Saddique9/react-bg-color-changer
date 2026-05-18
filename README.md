@@ -38,20 +38,19 @@ Follow these steps to run the project locally:
 
 # 1. Clone the repository
 ```bash
-# 1. Clone the repository
 git clone https://github.com/Ayesha-Saddique9/react-bg-color-changer.git
 ```
-# 1. Clone the repository
-```bash
+
 # 2. Navigate to the project folder
+```bash
 cd react-bg-color-changer
 ```
-```bash
 # 3. Install the required dependencies
+```bash
 npm install
 ```
-```bash
 # 4. Start the local development server
+```bash
 npm run dev
 ```
 ## 👩‍💻 Author
