@@ -31,7 +31,7 @@ A clean, interactive, and responsive web application built with **React.js**. It
 - **Logic Details:** The application initializes a `color` state variable using `useState('white')`. Each button is equipped with an `onClick` event handler that passes a specific hex code or color name to the `setColor` function. The main wrapper `div` uses inline styling `style={{ backgroundColor: color }}` to dynamically inject the state value, instantly updating the UI.
 
 ---
-
+ 
 ## 💻 How to Run Locally
 
 If you want to test this project on your own computer, simply run these commands one by one in your terminal:
@@ -52,9 +52,8 @@ npm run dev
 
 ##👩‍💻 Author
 **Ayesha Saddique**
-
-Junior Frontend Web Developer
-GitHub: @Ayesha-Saddique9
+-Junior Frontend Web Developer
+🔗 GitHub: https://github.com/Ayesha-Saddique9
 ⭐ If you like this project, feel free to give it a star!
 
 
