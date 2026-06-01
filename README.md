@@ -32,7 +32,7 @@ A clean, interactive, and responsive web application built with **React.js**. It
 
 ---
  
-## 💻 How to Run Locally
+# 💻 How to Run Locally
 
 Follow these steps to run the project locally:
 
@@ -53,7 +53,7 @@ npm install
 ```bash
 npm run dev
 ```
-## 👩‍💻 Author
+# 👩‍💻 Author
 
 **Ayesha Saddique**  
 Junior Frontend Web Developer  
