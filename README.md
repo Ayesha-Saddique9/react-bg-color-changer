@@ -36,20 +36,20 @@ A clean, interactive, and responsive web application built with **React.js**. It
 
 Follow these steps to run the project locally:
 
-# 1. Clone the repository
+## 1. Clone the repository
 ```bash
 git clone https://github.com/Ayesha-Saddique9/react-bg-color-changer.git
 ```
 
-# 2. Navigate to the project folder
+## 2. Navigate to the project folder
 ```bash
 cd react-bg-color-changer
 ```
-# 3. Install the required dependencies
+## 3. Install the required dependencies
 ```bash
 npm install
 ```
-# 4. Start the local development server
+## 4. Start the local development server
 ```bash
 npm run dev
 ```
